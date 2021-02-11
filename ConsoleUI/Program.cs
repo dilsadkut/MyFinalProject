@@ -5,6 +5,8 @@ using System;
 
 namespace ConsoleUI
 {
+    //SOLID
+    //Open Closed Principle
     class Program
     {
         static void Main(string[] args)
@@ -15,7 +17,7 @@ namespace ConsoleUI
 
 
 
-            foreach (var product in productManager.GetAll())
+            foreach (var product in productManager.GetByUnitPrice(40, 100)) 
             {
                 Console.WriteLine(product.ProductName);
             }
