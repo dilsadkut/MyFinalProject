@@ -10,3 +10,5 @@ C:\Users\lenovo\source\repos\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\
 C:\Users\lenovo\source\repos\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 C:\Users\lenovo\source\repos\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\Users\lenovo\source\repos\MyFinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\lenovo\source\repos\MyFinalProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\lenovo\source\repos\MyFinalProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
